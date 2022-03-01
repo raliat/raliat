@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________
  
 💡 Outside of work I enjoy:
-_______________________________
+
 ✈ Traveling: I love exploring the world, enagaging with new people, and learning about different cultures. My favorite destination I have visted so far is Thailand 
 
 📚 Reading: My favorite genre is currently Nonfiction. Feel free to recommend me your favorite book(s)!
