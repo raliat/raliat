@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 🌱 I am currrently learning the full extent of the Python programming language, how to access, clean, and analyze web data, and how to work directly with databases using both Python and SQL
 
-🔧 I am also building on the fundamental concepts of Python, SQL, data analysis, and data visualization
+🔧 I am also building on the various concepts of Python, SQL, data analysis, and data visualization
 ___________________________________________________________________________________________
  
 💡 Outside of work I enjoy:
