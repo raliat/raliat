@@ -1,7 +1,7 @@
 👋 Hi, I’m Raliat!
 ___________________________________________________________________________________________
 
-📊 I am currently an Analytics and Data Science Fellow in NYC
+📊 I am currently a data science and analytics fellow in NYC
 
 🌱 I am currrently learning the full extent of the Python programming language, how to access, clean, and analyze web data, and how to work directly with databases using both Python and SQL
 
